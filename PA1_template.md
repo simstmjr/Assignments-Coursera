@@ -339,7 +339,7 @@ Objectives
             ylab("Avg. Steps") +
             facet_grid(day.category~.)
 
-![](PA1_template_files/figure-markdown_strict/unnamed-chunk-12-1.png)
+![](unnamed-chunk-12-1.png)
 
 ### Analysis
 
