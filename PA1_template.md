@@ -123,7 +123,7 @@ Objectives
             geom_vline(xintercept = median.steps.per.day, color = "blue", linetype = "dashed", size = 1) +
             labs(title = "Histogram - Total Steps A Day")
 
-![](PA1_template_files/figure-markdown_strict/unnamed-chunk-6-1.png)
+![](unnamed-chunk-6-1.png)
 
 ### Analysis
 
@@ -166,7 +166,7 @@ Objectives
             xlab("5-minute Interval") +
             ylab("Avg. Steps")
 
-![](PA1_template_files/figure-markdown_strict/unnamed-chunk-7-1.png)
+![](unnamed-chunk-7-1.png)
 
 ### Analysis
 
@@ -256,7 +256,7 @@ Objectives
             geom_vline(xintercept = median.steps.per.day.filled, color = "blue", linetype = "dashed", size = 1) +
             labs(title = "Histogram - Total Steps A Day - Data Filled")
 
-![](PA1_template_files/figure-markdown_strict/unnamed-chunk-10-1.png)
+![](unnamed-chunk-10-1.png)
 
 ### Analysis
 
